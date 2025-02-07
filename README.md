@@ -17,9 +17,8 @@
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [sariqdasturchi.uz](https://sariqdasturchi.uz)
-- 🐦 Twitter: [@sariqdasturchi](https://twitter.com/sariqdasturchi)
-- 💼 LinkedIn: [Sariqdasturchi](https://www.linkedin.com/in/sariqdasturchi)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 Portfolio: [sariqdasturchi.uz](https://sariqdasturchi.uz))
+- 💼 LinkedIn: [Sariqdasturchi](https://www.linkedin.com/in/suhrobbozorov)
+- 📧 Email: [your-email@example.com](mailto:sukhrobbozorov6@gmail.com)
 
 Let's build something amazing together! 🚀
