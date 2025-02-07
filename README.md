@@ -19,6 +19,6 @@
 
 - 🌐 Portfolio: [sariqdasturchi.uz](https://sariqdasturchi.uz))
 - 💼 LinkedIn: [Sariqdasturchi](https://www.linkedin.com/in/suhrobbozorov)
-- 📧 Email: [your-email@example.com](mailto:sukhrobbozorov6@gmail.com)
+- 📧 Email: [sukhrobbozorov6@gmail.com](mailto:sukhrobbozorov6@gmail.com)
 
 Let's build something amazing together! 🚀
