@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | React.js & Next.js Enthusiast**  
 🔹 Passionate about building fast, scalable, and visually appealing web applications.  
-🔹 2+ years of experience in frontend development with a strong focus on **React.js, Next.js, TypeScript, and Node.js**.  
+🔹 3+ years of experience in frontend development with a strong focus on **React.js, Next.js, TypeScript, and Node.js**.  
 🔹 Actively contributing to open-source projects and sharing knowledge with the developer community.  
 
 
@@ -17,8 +17,8 @@
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [sariqdasturchi.uz](https://sariqdasturchi.uz))
-- 💼 LinkedIn: [Sariqdasturchi](https://www.linkedin.com/in/suhrobbozorov)
+- 🌐 Portfolio: [sariqdasturchi.uz](https://ilimio.uz))
+- 💼 LinkedIn: [Suhrob Bozorov](https://www.linkedin.com/in/suhrobbozorov)
 - 📧 Email: [sukhrobbozorov6@gmail.com](mailto:sukhrobbozorov6@gmail.com)
 
 Let's build something amazing together! 🚀
