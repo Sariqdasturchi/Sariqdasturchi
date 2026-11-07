@@ -17,7 +17,7 @@
 
 ### 📫 Connect with Me
 
-- 🌐 Portfolio: [ilimio.uz](https://ilimio.uz)
+- 🌐 Portfolio: [devready](https://devready.uz)
 - 💼 LinkedIn: [Suhrob Bozorov](https://www.linkedin.com/in/suhrobbozorov)
 - 📧 Email: [sukhrobbozorov6@gmail.com](mailto:sukhrobbozorov6@gmail.com)
 
